@@ -1,0 +1,6 @@
+@PeminjamanRuangan_HostAddress = http://localhost:5248
+
+GET {{PeminjamanRuangan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+
+# Environment variables
+.env
+*.env
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+logs/
